@@ -1,7 +1,7 @@
 // OPERATORS - These are used to perform different operations on values and variables.
 
 import java.util.Scanner;
-class viii_OPERATORS
+class OPERATORS
 {
   
     public static void main(String[]args)

@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-class v_USER_INPUT
+class USER_INPUT
 {
     public static void main(String[]args)
     {
@@ -37,6 +37,6 @@ class v_USER_INPUT
         System.out.println(s2);
 
 
-        // sc.close();  // --> Closes the scanner class.
+        sc.close();  // --> Closes the scanner class.
     }
 }

@@ -1,6 +1,6 @@
 // LITERALS - A constant value which can be assigned to a variable is known as Literals.
 
-class iii_LITERALS
+class LITERALS
 {
     public static void main(String[]args)
     {

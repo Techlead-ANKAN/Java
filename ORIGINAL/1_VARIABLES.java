@@ -7,11 +7,11 @@
 //  1) Cannot start with a digit
 //  2) Cannot contain space in the variable name
 //  3) These are case-sensitive
-//  4) Cannout use any keyword as variables
-//  5) Can contain alphabets, special characters($ and _) and digits if other conditions are met
+//  4) Cannot use any keyword as variables
+//  5) Can contain alphabets, special characters( $ and _ ) and digits if other conditions are met
 
 
-class i_VARIABLES
+class VARIABLES
 {
     public static void main(String [] args)
     {
