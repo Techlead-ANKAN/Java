@@ -107,7 +107,7 @@ class xi_STRINGS_Methods
         System.out.println(s21.replaceAll("ANKAN", "CODER"));
 
         // 22) String.split(" ") -> Splits the string into array of substrings.
-        
+
         // 23) String.substring(start,end) -> Returns a substring from the string.
         String s23 = "ANKAN MAITY.";
         System.out.println(s23.substring(0,5));
