@@ -20,5 +20,7 @@ public class Dec_to_Bin {
         for(j = i - 1; j >= 0; j--){
             System.out.print(b[j]);
         }
+
+        sc.close();
     }
 }
