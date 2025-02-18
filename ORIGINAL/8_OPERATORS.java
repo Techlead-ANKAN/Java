@@ -52,12 +52,12 @@ class OPERATORS
         // UNARY OPERATORS
         int p = 25, q = 50;
 
-        // INCREMENT (++)
+        // 1) INCREMENT (++)
         System.out.println("p = "+ p);
         int incre = ++p;   
         System.out.println("++p = "+ incre);
 
-        // DECREMENT (--)
+        // 2) DECREMENT (--)
         System.out.println("q = "+ q);
         int decre = --q;
         System.out.println("--q = "+ decre);

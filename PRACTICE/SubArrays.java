@@ -1,20 +1,27 @@
 package PRACTICE;
 
 public class SubArrays {
-    public static void subArray(int [] nums){
+    public static void subArray_maxSum(int [] nums){
+
+        int maxSum = 0;
+
         for(int i = 0; i < nums.length; i++){
             for(int j = i; j < nums.length; j++){
+                int sum = 0;
                 for(int k = i; k <= j; k++){
-                    System.out.print(nums[k] + " ");
+                    sum += nums[k];
                 }
-                System.out.println();
+                System.out.println(sum);
+                if(sum > maxSum)
+                    maxSum = sum;
             }
-            System.out.println();
         }
+
+        System.out.println("MaxSum = "+maxSum);
     }
 
     public static void main(String [] args){
-        int a[] = {1,2,3,4,5,6,7,8,9,0};
-        subArray(a);
+        int a[] = {1,-2,6,-1,3};
+        subArray_maxSum(a);
     }
 }
