@@ -1,6 +1,6 @@
 /* JAVA [chapter - 1] */
 
-//  VARIABLES - These are the containers where we can store values taht can be changed anytime. 
+// VARIABLES - These are the containers where we can store values taht can be changed anytime. 
 // Example -> int a = 10; 
 
 //  Rules:- 

@@ -1,5 +1,4 @@
-// KEYWORDS - These are the reserved word in the JAVA programming language that have some function 
-//            and a set of definition. There are total [50] Keywords in JAVA.
+// KEYWORDS - These are the reserved word in the JAVA programming language that have some function and a set of definition. There are total [50] Keywords in JAVA.
 
                             /* KEYWORDS [50] */
 
